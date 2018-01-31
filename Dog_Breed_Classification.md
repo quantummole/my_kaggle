@@ -10,7 +10,7 @@ The final probabilities are then estimated by finding the number of tress that v
 """
 Created on Fri Jan 19 14:59:05 2018
 
-@author: vsl4
+@author: QuantumMole
 """
 
 import tensorflow as tf
